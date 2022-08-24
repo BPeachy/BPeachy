@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BPeachy
-- 👀 I’m interested in learning about software development.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects that help me learn to code better.
+- 👀 I’m interested in learning about fullstack web development.
+- 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me brittneyc95@outlook.com
 
 <!---
