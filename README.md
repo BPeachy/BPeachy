@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BPeachy
+- 👋 Hi, I’m Brittney
 - 👀 I’m interested in learning about fullstack web development.
 - 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me brittneyc95@outlook.com
